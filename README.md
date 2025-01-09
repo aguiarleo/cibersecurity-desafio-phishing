@@ -18,4 +18,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+Screenshot do resultado capturado pelo setoolkit no Kali Linux
+
+![Alt text](./screenshot.png "Captura de tela do setoolkit")
